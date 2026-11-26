@@ -39,7 +39,7 @@ Wiki page: [M807](../../../../PAGES/M807.md)
 - **Title block:** (144, 17)–(381, 69) mm: 2N3645 · ~ISV IN749A ISSMODIICKD @SEDAON MAtL . · WBS WAAD-Beck · 83O1GEB B72025-06- 992 · B 1oo5 GEB M8o7 · RGIGEB 74057 · DRN: GP · M 807 · FINISH · DATE DEC 72 · FADE GENERATOR · CKD · SCALE · SCHE
 - **Wiring (first pass):** 75 connected wire groups from 340 runs; labelled ends: 297 mm → 2N3645, CRS, IN9I4, 63; 119 mm → 10/2o, TALLY, ~ISv, 20; 113 mm → CRS, IN9I4, 63, C6; 100 mm → CRA, IN9I4; 86 mm → BOTTOM, FADE, TALLY, R27
 
-Every curve, box, word and wire group: [1972 - 807-02-001 - FADE GENERATOR SCHEMATIC - DRN GP - ISS 4 (traced).json](../SCHEMATICS/1972%20-%20807-02-001%20-%20FADE%20GENERATOR%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%204%20(traced).json) (the CAD file: `1972 - 807-02-001 - FADE GENERATOR SCHEMATIC - DRN GP - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [1972 - 807-02-001 - FADE GENERATOR SCHEMATIC - DRN GP - ISS 4 (traced).json](../SCHEMATICS/1972%20-%20807-02-001%20-%20FADE%20GENERATOR%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1972 - 807-02-001 - FADE GENERATOR SCHEMATIC - DRN GP - ISS 4 (traced).dxf`).
 
 ## Full text
 
